@@ -19,7 +19,7 @@ email: workshop.tpc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Workshop en Técnicas de Programación Científica
 header-img: "img/home-bg.png"
-baseurl: "/wtpc-page" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  workshoptpc
 facebook_username: workshoptpc
