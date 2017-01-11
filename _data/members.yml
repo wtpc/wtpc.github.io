@@ -1,0 +1,46 @@
+# Members
+
+- name: Pablo Nicolás Alcain
+  role: Estudiante de Doctorado
+  img: http://www.tiempopatagonico.com/wp-content/uploads/2012/01/guanaco.jpg
+  github: pabloalcain
+  gplus: 
+  bio: Es Licenciado en Ciencias Físicas de la Universidad de Buenos Aires, actualmente cursando el doctorado en física en la misma universidad, con Claudio Dorso como director. En su doctorado, trabaja en el estudio computacional de sistemas de mecánica estadística, específicamente en las estructuras de pasta nuclear en las estrellas de neutrones. Es también ayudante del Departamento de Física en Mecánica Estadística e Introducción a la Química Cuántica.
+  url:
+  visible: true
+   
+- name: Pablo Echevarria
+  role: Estudiante de Doctorado
+  img: http://elportaldemendoza.com/wp-content/uploads/2014/06/Guanaco.jpg
+  github: 
+  gplus: 
+  bio: Es Licenciado en Ciencias de la Computación de la Universidad de Buenos Aires. Trabaja en Ciencias de la Tierra desde 2012, primero en un proyecto de asimilación de datos y modelado numérico de olas oceánicas en cuya área realizó su tesis de licenciatura, y después como personal permanente en el Servicio Meteorológico Nacional en el área de investigación y desarrollo. En la actual posición realiza tareas diversas desde investigación de nuevas tecnologías, desarrollo de software hasta consultoría a meteorólogos y oceanógrafos en diversos problemas de programación y/o eficiencia de software. También es parte del proyecto de desarrollo del modelo de olas NOAA-WWIII y Alert.AR. Dictó varios cursos, entre otros <em>Latex para Ciencias de la Tierra</em> y <em>Buenas Prácticas en Programación Científica</em>.
+  url:
+  visible: true
+   
+- name: Cecilia Jarne
+  role: Estudiante de Doctorado
+  img: http://www.temaiken.org.ar/files/items/imagenes/Guanaco_01.jpg
+  github: 
+  gplus: 
+  bio: Es Doctora en Ciencias Físicas de la Universidad Nacional de la Plata, bajo la dirección de H. Walhberg y M. T. Dova en estudios experimentales de rayos cósmicos. Actualmente realiza una estancia posdoctoral en el Laboratorio de Sistemas Dinámicos del IFIBA-UBA bajo la dirección de G. Mindlin donde estudia las unidades del canto en aves oscinas. Además, es docente de la Universidad Nacional de Quilmes y de la Escuela Técnica N°2 de Quilmes, donde enseña técnicas digitales y sistemas de comunicaciones.
+  url:
+  visible: true
+   
+- name: Rodrigo Lugones
+  role: Estudiante de Doctorado
+  img: http://www.clinamen.cl/Photogallery/slides/Guanaco-2291.jpg
+  github: rlugones 
+  gplus: 
+  bio: Es Licenciado en Física de la Universidad de Buenos Aires, actualmente cursando el doctorado en física en la misma universidad, con Pablo Dmitruk como director. En su doctorado, trabaja en el estudio computacional de turbulencia en plasmas. Es también ayudante del Departamento de Física de la Facultad de Ciencias Exactas y Naturales-UBA, en el área de Fluidos y Electromagnetismo.
+  url:
+  visible: true
+   
+- name: María Graciela Molina
+  role: Estudiante de Doctorado
+  img: http://www.hainaultforest.co.uk/GuanacosCloseUp1.JPG
+  github:
+  gplus:
+  bio: Es Licenciada en Informática y actualmente estudiante de doctorado bajo la dirección del Dr. Miguel A. Cabrera. Es docente e investigadora en la Facultad de Ciencias Exactas y Tecnología de la Universidad Nacional de Tucumán. Es docente en las cátedras de Métodos Numéricos I y Métodos Numéricos II. Estudia algoritmos numéricos para detección de ecos de radares para aplicaciones geofísicas y space weather. Mediante el estudio de técnicas de High Performance Computing desarrolla software para el procesamiento de señales de radares.
+  url:
+  visible: true
