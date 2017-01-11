@@ -1,7 +1,7 @@
 # Members
 
 - name: Pablo Nicolás Alcain
-  role: Estudiante de Doctorado
+  role:
   img: http://www.tiempopatagonico.com/wp-content/uploads/2012/01/guanaco.jpg
   github: pabloalcain
   gplus: 
@@ -10,7 +10,7 @@
   visible: true
    
 - name: Pablo Echevarria
-  role: Estudiante de Doctorado
+  role:
   img: http://elportaldemendoza.com/wp-content/uploads/2014/06/Guanaco.jpg
   github: 
   gplus: 
@@ -19,7 +19,7 @@
   visible: true
    
 - name: Cecilia Jarne
-  role: Estudiante de Doctorado
+  role:
   img: http://www.temaiken.org.ar/files/items/imagenes/Guanaco_01.jpg
   github: 
   gplus: 
@@ -28,7 +28,7 @@
   visible: true
    
 - name: Rodrigo Lugones
-  role: Estudiante de Doctorado
+  role:
   img: http://www.clinamen.cl/Photogallery/slides/Guanaco-2291.jpg
   github: rlugones 
   gplus: 
@@ -37,7 +37,7 @@
   visible: true
    
 - name: María Graciela Molina
-  role: Estudiante de Doctorado
+  role:
   img: http://www.hainaultforest.co.uk/GuanacosCloseUp1.JPG
   github:
   gplus:
