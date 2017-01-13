@@ -7,8 +7,10 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
+  text-align: justify;
   color: #404040;
-  background: rgba(41,208,29,0.2);
+  background: rgba(67,229,120,0.3);
+  #background: rgba(41,208,29,0.2);
   #background: rgba(141,246,224,0.4);
 }
 p {
