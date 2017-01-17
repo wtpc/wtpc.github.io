@@ -18,7 +18,7 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-				{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
+		<!--{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
@@ -27,7 +27,25 @@
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
-                {% endif %}{% endif %}{% endfor %}
+		{% endif %}{% endif %}{% endfor %}-->
+                <li>
+                    <a href="{{ site.baseurl }}/objetivos/">Objetivos</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/docentes.html">Docentes</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/programa/">Programa</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/clases/">Clases</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/registrarse/">Registrarse</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/contacto/">Contacto</a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
