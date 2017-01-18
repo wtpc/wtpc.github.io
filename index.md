@@ -29,4 +29,4 @@ del curso (ver [Clases](/clases/)). Agradecemos mucho (muchísimo) a
 Ivan Girotto, Axel Kohlmeyer y David Grellscheid por los cursos y toda
 la información que nos brindaron.
 
-[Inscripción abierta](/registrarse/) hasta 2 de febrero de 2017.
+[Inscripción abierta](/registrarse/) hasta 2 de febrero de 2017. El workshop es gratuito.
