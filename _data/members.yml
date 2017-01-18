@@ -1,7 +1,7 @@
-# Members
+# Docentes actuales
 
 - name: Pablo Nicolás Alcain
-  role:
+  role: teacher
   img: /img/teachers/foto_pabloa.png
   github: pabloalcain
   gplus: 
@@ -9,17 +9,8 @@
   url:
   visible: true
    
-- name: Pablo Echevarria
-  role:
-  img: /img/teachers/foto_pablohe.jpg
-  github: 
-  gplus: 
-  bio: Es Licenciado en Ciencias de la Computación de la Universidad de Buenos Aires. Trabaja en Ciencias de la Tierra desde 2012, primero en un proyecto de asimilación de datos y modelado numérico de olas oceánicas en cuya área realizó su tesis de licenciatura, y después como personal permanente en el Servicio Meteorológico Nacional en el área de investigación y desarrollo. En la actual posición realiza tareas diversas desde investigación de nuevas tecnologías, desarrollo de software hasta consultoría a meteorólogos y oceanógrafos en diversos problemas de programación y/o eficiencia de software. También es parte del proyecto de desarrollo del modelo de olas NOAA-WWIII y Alert.AR. Dictó varios cursos, entre otros <em>Latex para Ciencias de la Tierra</em> y <em>Buenas Prácticas en Programación Científica</em>.
-  url:
-  visible: true
-   
 - name: Cecilia Jarne
-  role:
+  role: teacher
   img: /img/teachers/foto_ceci.jpg
   github: 
   gplus: 
@@ -28,7 +19,7 @@
   visible: true
    
 - name: Rodrigo Lugones
-  role:
+  role: teacher
   img: /img/teachers/foto_rodrigo.jpg
   github: rlugones 
   gplus: 
@@ -37,10 +28,34 @@
   visible: true
    
 - name: María Graciela Molina
-  role:
+  role: teacher
   img: /img/teachers/foto_graciela.jpg
   github:
   gplus:
   bio: Es Licenciada en Informática y actualmente finalizando el doctorado en Ciencias Exactas e Ingeniería de la Facultad de Ciencias Exactas y Tecnología (FACET),  Universidad Nacional de Tucumán (UNT) bajo la dirección del Dr. Miguel A. Cabrera. Es Prof. Adjunta e investigadora en la misma Universidad. Es docente en las asignaturas de grado “Métodos Numéricos I” y “Métodos Numéricos II”. Además es docente de la asignatura “Computación Avanzada”  de la carrera de Magister en Métodos Numéricos y Computacionales en Ingeniería (FACET-UNT). Integrante del Laboratorio de Computación Científica (LabCC), del Laboratorio de Telecomunicaciones, ambos de la FACET-UNT, y de la red RAPEAS-CONICET. Estudia algoritmos numéricos para detección de ecos de radares para aplicaciones geofísicas y Space Weather. Mediante el estudio de técnicas de High Performance Computing desarrolla software para el procesamiento de señales de radares. 
+  url:
+  visible: true
+
+
+
+# Collaborators 
+- name: Tiziano
+  role: collaborator
+  img: /img/collaborators/foto_pablohe.jpg
+  github: 
+  gplus: 
+  bio: Es Licenciado en Ciencias de la Computación de la Universidad de Buenos Aires. Trabaja en Ciencias de la Tierra desde 2012, primero en un proyecto de asimilación de datos y modelado numérico de olas oceánicas en cuya área realizó su tesis de licenciatura, y después como personal permanente en el Servicio Meteorológico Nacional en el área de investigación y desarrollo. En la actual posición realiza tareas diversas desde investigación de nuevas tecnologías, desarrollo de software hasta consultoría a meteorólogos y oceanógrafos en diversos problemas de programación y/o eficiencia de software. También es parte del proyecto de desarrollo del modelo de olas NOAA-WWIII y Alert.AR. Dictó varios cursos, entre otros <em>Latex para Ciencias de la Tierra</em> y <em>Buenas Prácticas en Programación Científica</em>.
+  url:
+  visible: true
+
+
+
+# Past teachers   
+- name: Pablo Echevarria
+  role: former-teacher
+  img: /img/former-teachers/foto_pablohe.jpg
+  github: 
+  gplus: 
+  bio: Es Licenciado en Ciencias de la Computación de la Universidad de Buenos Aires. Trabaja en Ciencias de la Tierra desde 2012, primero en un proyecto de asimilación de datos y modelado numérico de olas oceánicas en cuya área realizó su tesis de licenciatura, y después como personal permanente en el Servicio Meteorológico Nacional en el área de investigación y desarrollo. En la actual posición realiza tareas diversas desde investigación de nuevas tecnologías, desarrollo de software hasta consultoría a meteorólogos y oceanógrafos en diversos problemas de programación y/o eficiencia de software. También es parte del proyecto de desarrollo del modelo de olas NOAA-WWIII y Alert.AR. Dictó varios cursos, entre otros <em>Latex para Ciencias de la Tierra</em> y <em>Buenas Prácticas en Programación Científica</em>.
   url:
   visible: true
