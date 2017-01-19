@@ -23,3 +23,5 @@ permalink: /programa/
 ## 6. DOCUMENTACIÓN
    Cómo escribir documentación eficiente para el usuario y para desarrolladores. Comentarios que ayudan y comentarios que confunden. Herramientas para la generación automática de manuales de referencia..
 
+## 7. PROGRAMACIÓN EN PARALELO (MPI, OpenMP)
+   Conceptos básicos para la programación en entonrnos paralelos.
