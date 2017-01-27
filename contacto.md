@@ -5,6 +5,7 @@
 layout: page 
 #layout: home
 title: Contacto
+permalink: /contacto/
 ---
 
 Ante cualquier duda o consulta, escribir a nuestro correo electrónico,
