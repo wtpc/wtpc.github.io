@@ -32,4 +32,3 @@ la información que nos brindaron.
 [Inscripción abierta](/registrarse/) hasta 2 de febrero de 2017. La participación en el workshop es gratuita.
 
 
-![poster](/img/poster2017.jpg){:class="img-responsive"}
