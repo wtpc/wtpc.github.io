@@ -4,7 +4,9 @@ title: Clases
 permalink: /clases/
 ---
 
-**Miércoles 01 de Marzo de 2017:**
+# WTPC 2017
+
+**Miércoles 01 de Marzo**
 
 [Introducción al Desarrollo de Software](/clases/01_desarrollo_software.pdf)
 
@@ -17,43 +19,60 @@ permalink: /clases/
 Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 
 <!---
-Martes 8 Marzo:
+**Jueves 02 de Marzo**
 
-Sistemas de control de versiones: git
+[Sistemas de control de versiones: git](/clases/03_git.pdf)
 
-Introducción a la Programación Orientada a Objetos
+[Introducción a la Programación Orientada a Objetos](/clases/04_oop.pdf)
 
-Hands-on: git
+[Hands-on: git](http://github.com/wtpc/HOgit)
 
-Hands-on: Programación Orientada a Objetos
-Miércoles 9 Marzo:
+[Hands-on: Programación Orientada a Objetos](http://github.com/wtpc/HOoop)
 
-Compilación y Linkeo
 
-Comunicando C con Python
+**Viernes 03 de Marzo**
 
-Hands-on: Compilación y Linkeo
+[Compilación y Linkeo](/clases/05_linking_compiled.pdf)
 
-Hands-on: Comunicando C con Python
-Jueves 10 Marzo:
+[Comunicando C con Python](/clases/06_linking_python.pdf)
 
-Arquitectura del Computador
+[Hands-on: Compilación y Linkeo](http://github.com/wtpc/HOcompiled)
 
-Debugging y Profiling
+[Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
+
+
+**Sábado 04 de Marzo**
+
+[Arquitectura del Computador](/clases/07_arquitectura.pdf)
+
+[Documentación](/clases/08_documentacion.pdf)
 
 Hands-on: Debugging y Profiling  (hoy sólo debug)
-Viernes 11 Marzo:
 
-Optimización por Software
 
-Optimización por Hardware
+**Lunes 06 de Marzo**
 
-Hands-on: Debugging y Profiling  (hoy sólo profile)
+[Debugging y Profiling](/clases/09_debug_profile.pdf)
 
-Sábado 12 Marzo:
+[Optimización](/clases/10_optimizacion.pdf)
 
-Cecilia: Documentación
-Lunes 14 Marzo:
+[Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
+
+
+**Martes 07 de Marzo**
+
+[Programación en entornos paralelos: OpenMP y MPI](/clases/11)
+
+[Estado del arte](/clases/12)
+
+
+**Miércoles 08 de Marzo**
+
+[GNU toolchain + Makefile](/clases/13)
+
+[Charla abierta]()
+
+
 
 Esteban Mocskos: Computación de Alto Rendimiento: TUPAC
 Martes 15 Marzo:
