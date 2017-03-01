@@ -4,18 +4,19 @@ title: Clases
 permalink: /clases/
 ---
 
-Próximamente...
+**Miércoles 01 de Marzo de 2017:**
 
+[Introducción al Desarrollo de Software](/clases/01_desarrollo_software.pdf)
+
+[Introducción a Python](/clases/02_basico_python.pdf)
+
+[Hands-on: Python como lenguaje de scripting](https://github.com/wtpc/HO-python)
+
+
+---------------------------------
 Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 
 <!---
-Lunes 7 Marzo:
-
-Introducción al Desarrollo de Software
-
-Introducción a Python
-
-Hands-on: Python como lenguaje de scripting
 Martes 8 Marzo:
 
 Sistemas de control de versiones: git
