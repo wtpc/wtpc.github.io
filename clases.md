@@ -15,10 +15,7 @@ permalink: /clases/
 [Hands-on: Python como lenguaje de scripting](https://github.com/wtpc/HO-python)
 
 
----------------------------------
-Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 
-<!---
 **Jueves 02 de Marzo**
 
 [Sistemas de control de versiones: git](/clases/03_git.pdf)
@@ -28,6 +25,11 @@ Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 [Hands-on: git](http://github.com/wtpc/HOgit)
 
 [Hands-on: Programación Orientada a Objetos](http://github.com/wtpc/HOoop)
+
+---------------------------------
+Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
+
+<!---
 
 
 **Viernes 03 de Marzo**
