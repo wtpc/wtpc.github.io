@@ -26,10 +26,6 @@ permalink: /clases/
 
 [Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop)
 
----------------------------------
-Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
-
-<!---
 
 
 **Viernes 03 de Marzo**
@@ -41,6 +37,12 @@ Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 [Hands-on: Compilación y Linkeo](http://github.com/wtpc/HOcompiled)
 
 [Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
+
+
+---------------------------------
+Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
+
+<!---
 
 
 **Sábado 04 de Marzo**
