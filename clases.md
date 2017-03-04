@@ -39,24 +39,28 @@ permalink: /clases/
 [Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
 
 
+**Sábado 04 de Marzo**
+
+[Arquitectura del Computador](/clases/07_arquitectura.pdf)
+
+[Debugging y Profiling](/clases/08_debug_profile.pdf)
+
+
+
+
 ---------------------------------
 Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 
 <!---
 
 
-**Sábado 04 de Marzo**
 
-[Arquitectura del Computador](/clases/07_arquitectura.pdf)
 
-[Documentación](/clases/08_documentacion.pdf)
-
-Hands-on: Debugging y Profiling  (hoy sólo debug)
 
 
 **Lunes 06 de Marzo**
 
-[Debugging y Profiling](/clases/09_debug_profile.pdf)
+[Documentación](/clases/08_documentacion.pdf)
 
 [Optimización](/clases/10_optimizacion.pdf)
 
