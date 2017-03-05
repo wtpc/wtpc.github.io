@@ -21,7 +21,7 @@ permalink: /programa/
    Diferencias entre debugging y profiling para lenguajes compilados e interpretados. Identificar bottlenecks. Estrategias de optimización de hardware (eficiencia de cache, autovectorización) y de software (algoritmos, expansión de polinomios de Horner…). Validación de resultados. Unit test y regression test.
 
 ## 6. DOCUMENTACIÓN
-   Cómo escribir documentación eficiente para el usuario y para desarrolladores. Comentarios que ayudan y comentarios que confunden. Herramientas para la generación automática de manuales de referencia..
+   Cómo escribir documentación eficiente para el usuario y para desarrolladores. Comentarios que ayudan y comentarios que confunden. Herramientas para la generación automática de manuales de referencia.
 
 ## 7. COMPUTACIÓN DE ALTO RENDIMIENTO
    Desafíos y estado del arte. Rendimiento de aplicaciones paralelas. Programación en entornos paralelos. MPI. OpenMP.
