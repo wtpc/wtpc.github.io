@@ -47,6 +47,13 @@ permalink: /clases/
 
 
 
+**Lunes 06 de Marzo**
+
+[Documentación](/clases/09_documentacion.pdf)
+
+[Optimización](/clases/10_optimizacion.pdf)
+
+[Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
 
 ---------------------------------
 Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
@@ -58,13 +65,6 @@ Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 
 
 
-**Lunes 06 de Marzo**
-
-[Documentación](/clases/08_documentacion.pdf)
-
-[Optimización](/clases/10_optimizacion.pdf)
-
-[Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
 
 
 **Martes 07 de Marzo**
