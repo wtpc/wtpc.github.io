@@ -55,24 +55,20 @@ permalink: /clases/
 
 [Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
 
----------------------------------
-Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
-
-<!---
-
-
-
-
-
-
 
 
 **Martes 07 de Marzo**
 
-[Programación en entornos paralelos: OpenMP y MPI](/clases/11)
+[Programación en entornos paralelos: MPI](/clases/11_MPI.pdf)
 
-[Estado del arte](/clases/12)
+[Estado del arte](/clases/12_estado_del_arte.pdf)
 
+
+
+---------------------------------
+Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
+
+<!---
 
 **Miércoles 08 de Marzo**
 
