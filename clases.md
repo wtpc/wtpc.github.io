@@ -65,6 +65,18 @@ permalink: /clases/
 
 
 
+**PROYECTOS**
+
+[Análisis de señales](/clases/proyectos/proyecto-analisis_de_senales.pdf)
+
+[Dinámica molecular](/clases/proyectos/proyecto-dinamica_molecular.pdf)
+
+[SIMBOT](/clases/proyectos/proyecto-SIMBOT.pdf)
+
+[Simulación de un ecosistema](/clases/proyectos/proyecto-ecosistema.pdf)
+
+
+
 ---------------------------------
 Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/).
 
