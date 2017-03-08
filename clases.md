@@ -65,6 +65,11 @@ permalink: /clases/
 
 
 
+**Miércoles 08 de Marzo**
+
+[GNU toolchain + Makefile](/clases/13_gnu_makefile.pdf)
+
+
 **PROYECTOS**
 
 [Análisis de señales](/clases/proyectos/proyecto-analisis_de_senales.pdf)
