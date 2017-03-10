@@ -70,6 +70,19 @@ permalink: /clases/
 [GNU toolchain + Makefile](/clases/13_gnu_makefile.pdf)
 
 
+
+**Jueves 09 de Marzo**
+
+Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 1)
+
+Charla invitada: M. Sc. Ticiano Torres Peralta - Robótica
+
+
+**Viernes 10 de Marzo**
+
+Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 2)
+
+
 **PROYECTOS**
 
 [Análisis de señales](/clases/proyectos/proyecto-analisis_de_senales.pdf)
