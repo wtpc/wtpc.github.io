@@ -75,7 +75,7 @@ permalink: /clases/
 
 Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 1)
 
-Charla invitada: M. Sc. Ticiano Torres Peralta - Robótica
+Charla invitada: M. Sc. Ticiano Torres Peralta - Arduino: Una plataforma abierta y rápida para desarrollos embebidos 
 
 
 **Viernes 10 de Marzo**
