@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Clases
-permalink: /clases/
+permalink: /clases/2017/
 ---
 
-# WTPC 2018
+# WTPC 2017
 
-Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
-
-<!--
-**Lunes 26 de Febrero**
+**Miércoles 01 de Marzo**
 
 [Introducción al Desarrollo de Software](/clases/2017/01_desarrollo_software.pdf)
 
@@ -19,7 +16,7 @@ Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
 
 
 
-**Martes 27 de Febrero**
+**Jueves 02 de Marzo**
 
 [Sistemas de control de versiones: git](/clases/2017/03_git.pdf)
 
@@ -31,7 +28,7 @@ Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
 
 
 
-**Miércoles 28 de Febrero**
+**Viernes 03 de Marzo**
 
 [Compilación y Linkeo](/clases/2017/05_linking_compiled.pdf)
 
@@ -42,7 +39,7 @@ Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
 [Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
 
 
-**Jueves 01 de Marzo**
+**Sábado 04 de Marzo**
 
 [Arquitectura del Computador](/clases/2017/07_arquitectura.pdf)
 
@@ -50,7 +47,7 @@ Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
 
 
 
-**Viernes 02 de Marzo**
+**Lunes 06 de Marzo**
 
 [Documentación](/clases/2017/09_documentacion.pdf)
 
@@ -60,7 +57,7 @@ Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
 
 
 
-**Sábado 03 de Marzo**
+**Martes 07 de Marzo**
 
 [Programación en entornos paralelos: MPI](/clases/2017/11_MPI.pdf)
 
@@ -68,79 +65,31 @@ Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
 
 
 
-**Lunes 05 de Marzo**
+**Miércoles 08 de Marzo**
 
 [GNU toolchain + Makefile](/clases/2017/13_gnu_makefile.pdf)
 
 
 
-**Martes 06 de Marzo**
+**Jueves 09 de Marzo**
 
 Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 1)
 
 Charla invitada: M. Sc. Ticiano Torres Peralta - Arduino: Una plataforma abierta y rápida para desarrollos embebidos 
 
 
-**Miércoles 07 de Marzo**
+**Viernes 10 de Marzo**
 
 Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 2)
 
 
-**Jueves 08 de Marzo**
-
-**Viernes 09 de Marzo**
-
 **PROYECTOS**
 
--->
+[Análisis de señales](/clases/2017/proyectos/proyecto-analisis_de_senales.pdf)
 
+[Dinámica molecular](/clases/2017/proyectos/proyecto-dinamica_molecular.pdf)
 
----------------------------------
-Para ver las clases del WTPC 2017, ir [aquí](/clases/2017/).
+[SIMBOT](/clases/2017/proyectos/proyecto-SIMBOT.pdf)
 
-Para ver las clases del WTPC 2016, ir [aquí](http://wp.df.uba.ar/wtpc/clases/2017/).
+[Simulación de un ecosistema](/clases/2017/proyectos/proyecto-ecosistema.pdf)
 
-<!---
-
-**Miércoles 08 de Marzo**
-
-[GNU toolchain + Makefile](/clases/2017/13)
-
-[Charla abierta]()
-
-
-
-Esteban Mocskos: Computación de Alto Rendimiento: TUPAC
-Martes 15 Marzo:
-
-Diego Zea: Desarrollo de paquetes en lenguaje julia
-
-Pablo Mininni: Programación en entornos masivamente paralelos
-Miércoles 16 Marzo:
-
-Gonzalo Sosa Rolón: Soluciones para la convivencia entre programadores y científicos
-
-Saif Addin Ellafi: Big Data, Data Wrangling y modelos de riesgo crediticio
-
-Xabier Anduaga | Gastón Romeo: Física de partículas en Wall Street
-
-PabloHE: virtualenv
-Jueves 17 Marzo:
-
-PabloA: Herramientas GNU en línea de comandos
-
-Ticiano Torres Peralta:  Multi-Agent Biorobotics Laboratory
-
-Ariel Marín: Sistemas operativos en tiempo real: FreeRTOS
-Viernes 18 Marzo:
-
-Franco Bellomo: Simulaciones de MonteCarlo con TEN
-
-Presentaciones de Grupos: Satélites
-
-Presentaciones de Grupos: Pajaritos
-
-Presentaciones de Grupos: Robot
-
-Presentaciones de Grupos: Dinámica
--->
