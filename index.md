@@ -10,16 +10,19 @@ layout: page
 Esta es la página del Workshop en Técnicas de Programación Científica
 2018 (WTPC18), que se llevará a cabo en la [Universidad Nacional de
 Quilmes](https://www.google.com.ar/maps/place/Universidad+Nacional+de+Quilmes/@-34.7065604,-58.2807164,17z/data=!3m1!4b1!4m5!3m4!1s0x95a331fe293db393:0x2a0a79e3ff445dfe!8m2!3d-34.7065604!4d-58.2785224),
-entre el 26 de febrero y el 10 de marzo de 2018.
+entre el 26 de febrero y el 9 de marzo de 2018.
 
-El curso se desarrollará mediante presentaciones sobre conceptos
-fundamentales por la mañana y, por la tarde, se realizarán sesiones
-obligatorias de hands-on en las que los alumnos pondrán en práctica
-los temas desarrollados. Durante la segunda semana se propondrán
-proyectos grupales para ser desarrollados por los participantes. El
-principal el objetivo de estos proyecto es el de poner a prueba
-globalmente los contenidos vistos en el curso haciendo énfasis en el
-trabajo colaborativo.
+El curso intensivo se desarrollará mediante presentaciones sobre
+conceptos fundamentales por las mañanas y, por las tardes, se
+realizarán sesiones obligatorias de hands-on en las que los alumnos
+pondrán en práctica los temas desarrollados. Durante la segunda semana
+se propondrán proyectos grupales para ser desarrollados por los
+participantes. El principal el objetivo de estos proyecto es el de
+poner a prueba globalmente los contenidos vistos en el curso haciendo
+énfasis en el trabajo colaborativo.
+
+En esta próxima edición, contaremos con una sesión de pósters el día
+viernes 2 de marzo, que será acompañada con un ágape.
 
 Este curso está basado en los cursos dictados por el ICTP en los años
 [2014](http://indico.ictp.it/event/a13190) y
@@ -28,8 +31,12 @@ del curso (ver [Clases](/clases/)). Agradecemos mucho (muchísimo) a
 Ivan Girotto, Axel Kohlmeyer y David Grellscheid por los cursos y toda
 la información que nos brindaron.
 
-[Inscripción cerrada](/registrarse/). La inscripción se abrirá a fines
-del 2017. La participación en el workshop es gratuita.
+[Inscripción abierta](/registrarse/). La fecha límite para inscribirse
+será el viernes 2 de febrero de 2018. La participación en el workshop
+es gratuita.
+
+<!--[Inscripción cerrada](/registrarse/). La inscripción se abrirá a fines
+del 2017. La participación en el workshop es gratuita.-->
 
 <!---[**Información de alojamientos**](/WTPC17_HOTELES_TUCUMAN.pdf) en San Miguel de Tucumán.-->
 
