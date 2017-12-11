@@ -61,12 +61,12 @@ Constitución-Bosques). También los alcanzan las líneas de colectivos
   cabo.
 
 <a href="http://www.unq.edu.ar/">
-   <img src="/img/sponsors/logo-unq-alta-calidad.jpg" alt="UNQ" style="width: 256px;"/>
+   <img src="/img/sponsors/logo-unq-alta-calidad.jpg" alt="UNQ" style="width: 216px;"/>
 </a>
 <a href="https://www.python.org/psf/">
-   <img src="/img/sponsors/psf-logo-narrow-256x84-alpha.png" alt="PSF" style="width: 256px;"/>
+   <img src="/img/sponsors/psf-logo-narrow-256x84-alpha.png" alt="PSF" style="width: 216px;"/>
 </a>
 <a href="http://www.fundacionsadosky.org.ar/">
-   <img src="/img/sponsors/logo_fundacionsadosky.png" alt="PSF" style="width: 256px;"/>
+   <img src="/img/sponsors/logo_fundacionsadosky.png" alt="PSF" style="width: 216px;"/>
 </a>
 
