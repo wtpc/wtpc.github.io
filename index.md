@@ -66,4 +66,7 @@ Constitución-Bosques). También los alcanzan las líneas de colectivos
 <a href="https://www.python.org/psf/">
    <img src="/img/sponsors/psf-logo-narrow-256x84-alpha.png" alt="PSF" style="width: 256px;"/>
 </a>
+<a href="http://www.fundacionsadosky.org.ar/">
+   <img src="/img/sponsors/logo_fundacionsadosky.png" alt="PSF" style="width: 256px;"/>
+</a>
 
