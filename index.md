@@ -31,9 +31,10 @@ del curso (ver [Clases](/clases/)). Agradecemos mucho (muchísimo) a
 Ivan Girotto, Axel Kohlmeyer y David Grellscheid por los cursos y toda
 la información que nos brindaron.
 
-[Inscripción abierta](/registrarse/). La fecha límite para inscribirse
+<!--[Inscripción abierta](/registrarse/). La fecha límite para inscribirse
 será el viernes 2 de febrero de 2018. La participación en el workshop
-es gratuita.
+es gratuita.-->
+**Inscripción cerrada.**
 
 <!--[Inscripción cerrada](/registrarse/). La inscripción se abrirá a fines
 del 2017. La participación en el workshop es gratuita.-->

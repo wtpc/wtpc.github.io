@@ -16,4 +16,5 @@ asistan.
 
 <!--**Inscripción cerrada**. La inscripción se abrirá a fines
 del 2017. La participación en el workshop es gratuita.-->
-**Inscripción abierta hasta el 02 de febrero de 2018**. Ir al [Formulario de Inscripción](http://bit.ly/wtpc18-inscripcion)
+<!--**Inscripción abierta hasta el 02 de febrero de 2018**. Ir al [Formulario de Inscripción](http://bit.ly/wtpc18-inscripcion)-->
+**Inscripción cerrada**. 
