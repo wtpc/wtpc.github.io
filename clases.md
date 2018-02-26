@@ -6,18 +6,18 @@ permalink: /clases/
 
 # WTPC 2018
 
-Clases todavía no disponibles. Se irán subiendo a lo largo del workshop.
+<!--Clases todavía no disponibles. Se irán subiendo a lo largo del workshop-->
 
-<!--
 **Lunes 26 de Febrero**
 
-[Introducción al Desarrollo de Software](/clases/2017/01_desarrollo_software.pdf)
+[Introducción al Desarrollo de Software](/clases/2018/01_desarrollo_software.pdf)
 
-[Introducción a Python](/clases/2017/02_basico_python.pdf)
+[Introducción a Python](/clases/2018/02_intro_python.pdf)
 
 [Hands-on: Python como lenguaje de scripting](https://github.com/wtpc/HO-python)
 
 
+<!--
 
 **Martes 27 de Febrero**
 
