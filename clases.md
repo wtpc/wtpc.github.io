@@ -26,7 +26,7 @@ permalink: /clases/
 
 [Hands-on: git](http://github.com/wtpc/HOgit)
 
-[Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop)
+[Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop_2018)
 
 <!--
 
