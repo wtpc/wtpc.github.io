@@ -17,18 +17,18 @@ permalink: /clases/
 [Hands-on: Python como lenguaje de scripting](https://github.com/wtpc/HO-python)
 
 
-<!--
 
 **Martes 27 de Febrero**
 
-[Sistemas de control de versiones: git](/clases/2017/03_git.pdf)
+[Sistemas de control de versiones: git](/clases/2018/03_git.pdf)
 
-[Introducción a la Programación Orientada a Objetos](/clases/2017/04_oop.pdf)
+[Introducción a la Programación Orientada a Objetos](/clases/2018/04_oop.pdf)
 
 [Hands-on: git](http://github.com/wtpc/HOgit)
 
 [Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop)
 
+<!--
 
 
 **Miércoles 28 de Febrero**
