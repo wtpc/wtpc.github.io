@@ -28,19 +28,18 @@ permalink: /clases/
 
 [Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop_2018)
 
-<!--
-
 
 **Miércoles 28 de Febrero**
 
-[Compilación y Linkeo](/clases/2017/05_linking_compiled.pdf)
+[Compilación y Linkeo](/clases/2018/05_linking_compiled.pdf)
 
-[Comunicando C con Python](/clases/2017/06_linking_python.pdf)
+[Comunicando C con Python](/clases/2018/06_linking_python.pdf)
 
 [Hands-on: Compilación y Linkeo](http://github.com/wtpc/HOcompiled)
 
 [Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
 
+<!--
 
 **Jueves 01 de Marzo**
 
