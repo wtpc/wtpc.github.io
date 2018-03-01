@@ -39,12 +39,12 @@ permalink: /clases/
 
 [Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
 
-<!--
 
 **Jueves 01 de Marzo**
 
-[Arquitectura del Computador](/clases/2017/07_arquitectura.pdf)
+[Arquitectura del Computador](/clases/2018/07_arquitectura.pdf)
 
+<!--
 [Debugging y Profiling](/clases/2017/08_debug_profile.pdf)
 
 
