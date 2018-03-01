@@ -44,18 +44,19 @@ permalink: /clases/
 
 [Arquitectura del Computador](/clases/2018/07_arquitectura.pdf)
 
+[Debugging y Profiling](/clases/2018/08_debug_profile.pdf)
+
+[GNU toolchain + Makefile](/clases/2018/09_gnu_makefile.pdf)
+
+[Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
+
 <!--
-[Debugging y Profiling](/clases/2017/08_debug_profile.pdf)
-
-
 
 **Viernes 02 de Marzo**
 
 [Documentación](/clases/2017/09_documentacion.pdf)
 
 [Optimización](/clases/2017/10_optimizacion.pdf)
-
-[Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
 
 
 
@@ -69,7 +70,6 @@ permalink: /clases/
 
 **Lunes 05 de Marzo**
 
-[GNU toolchain + Makefile](/clases/2017/13_gnu_makefile.pdf)
 
 
 
