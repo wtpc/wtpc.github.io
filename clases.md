@@ -50,16 +50,17 @@ permalink: /clases/
 
 [Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
 
-<!--
 
 **Viernes 02 de Marzo**
 
-[Documentación](/clases/2017/09_documentacion.pdf)
+[Optimización](/clases/2018/10_optimizacion.pdf)
 
-[Optimización](/clases/2017/10_optimizacion.pdf)
+[Documentación](/clases/2018/11_documentacion.pdf)
 
 
 
+
+<!--
 **Sábado 03 de Marzo**
 
 [Programación en entornos paralelos: MPI](/clases/2017/11_MPI.pdf)
@@ -89,9 +90,17 @@ Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 2)
 
 **Viernes 09 de Marzo**
 
+-->
+
 **PROYECTOS**
 
--->
+[Redes neuronales](/clases/2018/proyectos/proyecto_redes.pdf)
+
+[Dinámica molecular](/clases/2018/proyectos/proyecto_md.pdf)
+
+[SIMBOT](/clases/2018/proyectos/proyecto_SIMBOT.pdf)
+
+[Simulación de un ecosistema](/clases/2018/proyectos/proyecto_ecosistema.pdf)
 
 
 ---------------------------------
