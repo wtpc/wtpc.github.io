@@ -98,7 +98,7 @@ Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 2)
 
 [Dinámica molecular](/clases/2018/proyectos/proyecto_md.pdf)
 
-[SIMBOT](/clases/2018/proyectos/proyecto_SIMBOT.pdf)
+[SIMBOT](/clases/2018/proyectos/proyecto_simbot.pdf)
 
 [Simulación de un ecosistema](/clases/2018/proyectos/proyecto_ecosistema.pdf)
 
