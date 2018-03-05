@@ -8,7 +8,7 @@ permalink: /clases/
 
 <!--Clases todavía no disponibles. Se irán subiendo a lo largo del workshop-->
 
-[Charla abierta](/clases/2018/charla_abierta.pdf))
+[Charla abierta](/clases/2018/charla_abierta.pdf)
 
 
 **Lunes 26 de Febrero**
