@@ -58,7 +58,9 @@ permalink: /clases/
 [Documentación](/clases/2018/11_documentacion.pdf)
 
 
+**Lunes 05 de Marzo**
 
+[Herramientas de deployment](/clases/2018/12_deployment.pdf)
 
 <!--
 **Sábado 03 de Marzo**
