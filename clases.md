@@ -8,6 +8,9 @@ permalink: /clases/
 
 <!--Clases todavía no disponibles. Se irán subiendo a lo largo del workshop-->
 
+[Charla abierta](/clases/2018/charla_abierta.pdf))
+
+
 **Lunes 26 de Febrero**
 
 [Introducción al Desarrollo de Software](/clases/2018/01_desarrollo_software.pdf)
@@ -56,8 +59,6 @@ permalink: /clases/
 [Optimización](/clases/2018/10_optimizacion.pdf)
 
 [Documentación](/clases/2018/11_documentacion.pdf)
-
-[Charla abierta](/clases/2018/charla_abierta.pdf))
 
 
 **Lunes 05 de Marzo**
