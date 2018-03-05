@@ -66,34 +66,38 @@ permalink: /clases/
 
 
 <!--
-**Sábado 03 de Marzo**
-
-[Programación en entornos paralelos: MPI](/clases/2017/11_MPI.pdf)
-
-[Estado del arte](/clases/2017/12_estado_del_arte.pdf)
-
-
-
-**Lunes 05 de Marzo**
-
-
-
-
 **Martes 06 de Marzo**
 
-Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 1)
+**Charla invitada:** Edgard Alszyler (Fundación Sadosky)
 
-Charla invitada: M. Sc. Ticiano Torres Peralta - Arduino: Una plataforma abierta y rápida para desarrollos embebidos 
+**Charla invitada:** Leandro Lombardi (Fundación Sadosky)
 
 
 **Miércoles 07 de Marzo**
 
-Charla invitada: Dr. Adrián Will - Redes neuronales y aplicaciones (Parte 2)
+[Estado del arte](/clases/2017/12_estado_del_arte.pdf)
+[Programación en entornos paralelos: MPI](/clases/2017/11_MPI.pdf)
+
+**Charla invitada:** Flavia Gómez Albarracín (IFLySiB - UNLP)
+
 
 
 **Jueves 08 de Marzo**
 
+**Charla invitada:** Natalio Krasnogor (Newcastle University) - *Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)
+
+**Charla invitada:** Natalio Krasnogor (Newcastle University) - Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*
+
+
+
 **Viernes 09 de Marzo**
+
+**Charla invitada:** Alejandro Díaz-Caro (UNQ/CONICET) – Fundamentos de lenguajes de programación cuánticos
+
+**Charla invitada:** Rodrigo Laje (UNQ/CONICET)
+
+
+
 
 -->
 
