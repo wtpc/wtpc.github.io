@@ -57,6 +57,8 @@ permalink: /clases/
 
 [Documentación](/clases/2018/11_documentacion.pdf)
 
+[Charla abierta](/clases/2018/charla_abierta.pdf))
+
 
 **Lunes 05 de Marzo**
 
