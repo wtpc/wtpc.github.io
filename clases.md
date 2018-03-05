@@ -62,7 +62,7 @@ permalink: /clases/
 
 [Herramientas de *deployment*](/clases/2018/12_deployment.pdf)
 
-Charla invitada: Dr. Osvaldo Martin (Universidad Nacional de San Luis)
+**Charla invitada:** Dr. Osvaldo Martin (UNSL) - Estadística Bayesiana
 
 
 <!--
