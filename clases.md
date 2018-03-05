@@ -60,7 +60,10 @@ permalink: /clases/
 
 **Lunes 05 de Marzo**
 
-[Herramientas de deployment](/clases/2018/12_deployment.pdf)
+[Herramientas de *deployment*](/clases/2018/12_deployment.pdf)
+
+Charla invitada: Dr. Osvaldo Martin (Universidad Nacional de San Luis)
+
 
 <!--
 **Sábado 03 de Marzo**
