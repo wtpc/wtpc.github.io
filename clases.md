@@ -68,14 +68,14 @@ permalink: /clases/
 **Charla invitada:** Dr. Osvaldo Martin (UNSL) - [Programación probabilística en Python: PyMC3](/clases/2018/charlas_invitadas/OsvaldoMartin-PyMC3.zip)
 
 
-<!--
 **Martes 06 de Marzo**
 
-**Charla invitada:** Edgard Alszyler (Fundación Sadosky)
+**Charla invitada:** Edgard Alszyler (Fundación Sadosky) - [Data Science con Panda](/clases/2018/charlas_invitadas/EdgardAlszyler-DataScienceConPandas.zip)
 
-**Charla invitada:** Leandro Lombardi (Fundación Sadosky)
+**Charla invitada:** Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
 
 
+<!--
 **Miércoles 07 de Marzo**
 
 [Estado del arte](/clases/2017/12_estado_del_arte.pdf)
