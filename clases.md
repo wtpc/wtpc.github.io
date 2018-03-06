@@ -65,7 +65,7 @@ permalink: /clases/
 
 [Herramientas de *deployment*](/clases/2018/12_deployment.pdf)
 
-**Charla invitada:** Dr. Osvaldo Martin (UNSL) - Programación probabilística en Python: PyMC3
+**Charla invitada:** Dr. Osvaldo Martin (UNSL) - [Programación probabilística en Python: PyMC3](/clases/2018/charlas_invitadas/OsvaldoMartin-PyMC3.zip)
 
 
 <!--
