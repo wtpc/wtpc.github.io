@@ -70,7 +70,7 @@ permalink: /clases/
 
 **Martes 06 de Marzo**
 
-**Charla invitada:** Edgar Alszyler (Fundación Sadosky) - [Data Science con Panda](/clases/2018/charlas_invitadas/EdgarAlszyler-DataScienceConPandas.zip)
+**Charla invitada:** Edgar Alszyler (Fundación Sadosky) - Data Science con Panda
 
 **Charla invitada:** Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
 
