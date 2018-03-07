@@ -79,7 +79,7 @@ permalink: /clases/
 
 [Entornos masivamente paralelos](/clases/2018/13_entornos_masivamente_paralelos.pdf) + [MPI *cheatsheet*](/clases/2018/mpicheatsheet.pdf)
 
-**Charla invitada:** Flavia Gómez Albarracín (IFLySiB - UNLP)
+**Charla invitada:** Flavia Gómez Albarracín (IFLySiB - UNLP) - [Simulaciones en sistemas magnéticos frustados](/clases/2018/charlas_invitadas/FlaviaAlbarracin-Simulaciones_en_sistemas_magnéticos_frustados.pdf)
 
 
 <!--
