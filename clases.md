@@ -75,15 +75,14 @@ permalink: /clases/
 **Charla invitada:** Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
 
 
-<!--
 **Miércoles 07 de Marzo**
 
-[Estado del arte](/clases/2017/12_estado_del_arte.pdf)
-[Programación en entornos paralelos: MPI](/clases/2017/11_MPI.pdf)
+[Entornos masivamente paralelos](/clases/2018/13_entornos_masivamente_paralelos.pdf) + [MPI *cheatsheet*](/clases/2018/mpicheatsheet.pdf)
 
 **Charla invitada:** Flavia Gómez Albarracín (IFLySiB - UNLP)
 
 
+<!--
 
 **Jueves 08 de Marzo**
 
