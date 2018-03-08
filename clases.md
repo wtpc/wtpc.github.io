@@ -90,16 +90,16 @@ permalink: /clases/
 **Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*
 
 
-<!--
 
 **Viernes 09 de Marzo**
 
 **Charla invitada:** Alejandro Díaz-Caro (UNQ/CONICET) – Fundamentos de lenguajes de programación cuánticos
 
-**Charla invitada:** Rodrigo Laje (UNQ/CONICET)
+**Charla invitada:** Rodrigo Laje (UNQ/CONICET) - Tiempo, control motor, caos y reproducibilidad en el cerebro: hay lugar para todos
 
 
 
+<!--
 
 -->
 
