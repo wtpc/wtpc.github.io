@@ -82,15 +82,15 @@ permalink: /clases/
 **Charla invitada:** Flavia Gómez Albarracín (IFLySiB - UNLP) - [Simulaciones en sistemas magnéticos frustados](/clases/2018/charlas_invitadas/FlaviaAlbarracin-Simulaciones_en_sistemas_magnéticos_frustados.pdf)
 
 
-<!--
 
 **Jueves 08 de Marzo**
 
-**Charla invitada:** Natalio Krasnogor (Newcastle University) - *Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)
+**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - *Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)
 
-**Charla invitada:** Natalio Krasnogor (Newcastle University) - Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*
+**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*
 
 
+<!--
 
 **Viernes 09 de Marzo**
 
