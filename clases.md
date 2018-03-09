@@ -93,7 +93,7 @@ permalink: /clases/
 
 **Viernes 09 de Marzo**
 
-**Charla invitada:** Alejandro Díaz-Caro (UNQ/CONICET) – Fundamentos de lenguajes de programación cuánticos
+**Charla invitada:** Alejandro Díaz-Caro (UNQ/CONICET) – [Fundamentos de lenguajes de programación cuánticos](/clases/2018/charlas_invitadas/AlejandroDiazCaro-Fundamentos_de_lenguajes_de_programacion_cuanticos.pdf)
 
 **Charla invitada:** Rodrigo Laje (UNQ/CONICET) - Tiempo, control motor, caos y reproducibilidad en el cerebro: hay lugar para todos
 
