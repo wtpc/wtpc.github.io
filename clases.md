@@ -85,9 +85,9 @@ permalink: /clases/
 
 **Jueves 08 de Marzo**
 
-**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - *Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)
+**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - [*Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)](/clases/2018/charlas_invitadas/NatalioKrasnogor-Apps_biologicas.pdf)
 
-**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*
+**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - [Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*](/clases/2018/charlas_invitadas/NatalioKrasnogor-Simbiotics.pdf)
 
 
 
