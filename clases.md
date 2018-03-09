@@ -13,89 +13,89 @@ permalink: /clases/
 
 **Lunes 26 de Febrero**
 
-[Introducción al Desarrollo de Software](/clases/2018/01_desarrollo_software.pdf)
+- [Introducción al Desarrollo de Software](/clases/2018/01_desarrollo_software.pdf)
 
-[Introducción a Python](/clases/2018/02_intro_python.pdf)
+- [Introducción a Python](/clases/2018/02_intro_python.pdf)
 
-[Hands-on: Python como lenguaje de scripting](https://github.com/wtpc/HO-python)
+- [Hands-on: Python como lenguaje de scripting](https://github.com/wtpc/HO-python)
 
 
 
 **Martes 27 de Febrero**
 
-[Sistemas de control de versiones: git](/clases/2018/03_git.pdf)
+- [Sistemas de control de versiones: git](/clases/2018/03_git.pdf)
 
-[Introducción a la Programación Orientada a Objetos](/clases/2018/04_oop.pdf)
+- [Introducción a la Programación Orientada a Objetos](/clases/2018/04_oop.pdf)
 
-[Hands-on: git](http://github.com/wtpc/HOgit)
+- [Hands-on: git](http://github.com/wtpc/HOgit)
 
-[Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop_2018)
+- [Hands-on: Programación Orientada a Objetos - OOP](http://github.com/wtpc/HOoop_2018)
 
 
 **Miércoles 28 de Febrero**
 
-[Compilación y Linkeo](/clases/2018/05_linking_compiled.pdf)
+- [Compilación y Linkeo](/clases/2018/05_linking_compiled.pdf)
 
-[Comunicando C con Python](/clases/2018/06_linking_python.pdf)
+- [Comunicando C con Python](/clases/2018/06_linking_python.pdf)
 
-[Hands-on: Compilación y Linkeo](http://github.com/wtpc/HOcompiled)
+- [Hands-on: Compilación y Linkeo](http://github.com/wtpc/HOcompiled)
 
-[Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
+- [Hands-on: Comunicando C con Python](http://github.com/wtpc/HOpython-compiled)
 
 
 **Jueves 01 de Marzo**
 
-[Arquitectura del Computador](/clases/2018/07_arquitectura.pdf)
+- [Arquitectura del Computador](/clases/2018/07_arquitectura.pdf)
 
-[Debugging y Profiling](/clases/2018/08_debug_profile.pdf)
+- [Debugging y Profiling](/clases/2018/08_debug_profile.pdf)
 
-[GNU toolchain + Makefile](/clases/2018/09_gnu_makefile.pdf)
+- [GNU toolchain + Makefile](/clases/2018/09_gnu_makefile.pdf)
 
-[Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
+- [Hands-on: Debugging y Profiling](http://github.com/wtpc/HOdebug-profile)
 
 
 **Viernes 02 de Marzo**
 
-[Optimización](/clases/2018/10_optimizacion.pdf)
+- [Optimización](/clases/2018/10_optimizacion.pdf)
 
-[Documentación](/clases/2018/11_documentacion.pdf)
+- [Documentación](/clases/2018/11_documentacion.pdf)
 
 
 **Lunes 05 de Marzo**
 
-[Herramientas de *deployment*](/clases/2018/12_deployment.pdf)
+- [Herramientas de *deployment*](/clases/2018/12_deployment.pdf)
 
-*Charla invitada:* Dr. Osvaldo Martin (UNSL) - [Programación probabilística en Python: PyMC3](/clases/2018/charlas_invitadas/OsvaldoMartin-PyMC3.zip)
+- *Charla invitada:* Dr. Osvaldo Martin (UNSL) - [Programación probabilística en Python: PyMC3](/clases/2018/charlas_invitadas/OsvaldoMartin-PyMC3.zip)
 
 
 **Martes 06 de Marzo**
 
-*Charla invitada:* Edgar Alszyler (Fundación Sadosky) - Data Science con Panda
+- *Charla invitada:* Edgar Alszyler (Fundación Sadosky) - Data Science con Panda
 
-*Charla invitada:* Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
+- *Charla invitada:* Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
 
 
 **Miércoles 07 de Marzo**
 
-[Entornos masivamente paralelos](/clases/2018/13_entornos_masivamente_paralelos.pdf) + [MPI *cheatsheet*](/clases/2018/mpicheatsheet.pdf)
+- [Entornos masivamente paralelos](/clases/2018/13_entornos_masivamente_paralelos.pdf) + [MPI *cheatsheet*](/clases/2018/mpicheatsheet.pdf)
 
-*Charla invitada:* Flavia Gómez Albarracín (IFLySiB - UNLP) - [Simulaciones en sistemas magnéticos frustados](/clases/2018/charlas_invitadas/FlaviaAlbarracin-Simulaciones_en_sistemas_magnéticos_frustados.pdf)
+- *Charla invitada:* Flavia Gómez Albarracín (IFLySiB - UNLP) - [Simulaciones en sistemas magnéticos frustados](/clases/2018/charlas_invitadas/FlaviaAlbarracin-Simulaciones_en_sistemas_magnéticos_frustados.pdf)
 
 
 
 **Jueves 08 de Marzo**
 
-*Charla invitada:* Natalio Krasnogor (ICOS, Newcastle University) - [*Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)](/clases/2018/charlas_invitadas/NatalioKrasnogor-Apps_biologicas.pdf)
+- *Charla invitada:* Natalio Krasnogor (ICOS, Newcastle University) - [*Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)](/clases/2018/charlas_invitadas/NatalioKrasnogor-Apps_biologicas.pdf)
 
-*Charla invitada:* Natalio Krasnogor (ICOS, Newcastle University) - [Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*](/clases/2018/charlas_invitadas/NatalioKrasnogor-Simbiotics.pdf)
+- *Charla invitada:* Natalio Krasnogor (ICOS, Newcastle University) - [Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*](/clases/2018/charlas_invitadas/NatalioKrasnogor-Simbiotics.pdf)
 
 
 
 **Viernes 09 de Marzo**
 
-*Charla invitada:* Alejandro Díaz-Caro (UNQ/CONICET) – [Fundamentos de lenguajes de programación cuánticos](/clases/2018/charlas_invitadas/AlejandroDiazCaro-Fundamentos_de_lenguajes_de_programacion_cuanticos.pdf)
+- *Charla invitada:* Alejandro Díaz-Caro (UNQ/CONICET) – [Fundamentos de lenguajes de programación cuánticos](/clases/2018/charlas_invitadas/AlejandroDiazCaro-Fundamentos_de_lenguajes_de_programacion_cuanticos.pdf)
 
-*Charla invitada:* Rodrigo Laje (UNQ/CONICET) - Tiempo, control motor, caos y reproducibilidad en el cerebro: hay lugar para todos
+- *Charla invitada:* Rodrigo Laje (UNQ/CONICET) - Tiempo, control motor, caos y reproducibilidad en el cerebro: hay lugar para todos
 
 
 
