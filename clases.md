@@ -65,37 +65,37 @@ permalink: /clases/
 
 [Herramientas de *deployment*](/clases/2018/12_deployment.pdf)
 
-**Charla invitada:** Dr. Osvaldo Martin (UNSL) - [Programación probabilística en Python: PyMC3](/clases/2018/charlas_invitadas/OsvaldoMartin-PyMC3.zip)
+*Charla invitada:* Dr. Osvaldo Martin (UNSL) - [Programación probabilística en Python: PyMC3](/clases/2018/charlas_invitadas/OsvaldoMartin-PyMC3.zip)
 
 
 **Martes 06 de Marzo**
 
-**Charla invitada:** Edgar Alszyler (Fundación Sadosky) - Data Science con Panda
+*Charla invitada:* Edgar Alszyler (Fundación Sadosky) - Data Science con Panda
 
-**Charla invitada:** Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
+*Charla invitada:* Leandro Lombardi (Fundación Sadosky) - *Machine Learning*
 
 
 **Miércoles 07 de Marzo**
 
 [Entornos masivamente paralelos](/clases/2018/13_entornos_masivamente_paralelos.pdf) + [MPI *cheatsheet*](/clases/2018/mpicheatsheet.pdf)
 
-**Charla invitada:** Flavia Gómez Albarracín (IFLySiB - UNLP) - [Simulaciones en sistemas magnéticos frustados](/clases/2018/charlas_invitadas/FlaviaAlbarracin-Simulaciones_en_sistemas_magnéticos_frustados.pdf)
+*Charla invitada:* Flavia Gómez Albarracín (IFLySiB - UNLP) - [Simulaciones en sistemas magnéticos frustados](/clases/2018/charlas_invitadas/FlaviaAlbarracin-Simulaciones_en_sistemas_magnéticos_frustados.pdf)
 
 
 
 **Jueves 08 de Marzo**
 
-**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - [*Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)](/clases/2018/charlas_invitadas/NatalioKrasnogor-Apps_biologicas.pdf)
+*Charla invitada:* Natalio Krasnogor (ICOS, Newcastle University) - [*Apps* biologicas: como programar organismos vivos (modelos, herramientas, ejemplos)](/clases/2018/charlas_invitadas/NatalioKrasnogor-Apps_biologicas.pdf)
 
-**Charla invitada:** Natalio Krasnogor (ICOS, Newcastle University) - [Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*](/clases/2018/charlas_invitadas/NatalioKrasnogor-Simbiotics.pdf)
+*Charla invitada:* Natalio Krasnogor (ICOS, Newcastle University) - [Infraestructuras informaticas para el modelado 3D de colonias bacterianas y avances en la integracion de material biologico al *internet of things*](/clases/2018/charlas_invitadas/NatalioKrasnogor-Simbiotics.pdf)
 
 
 
 **Viernes 09 de Marzo**
 
-**Charla invitada:** Alejandro Díaz-Caro (UNQ/CONICET) – [Fundamentos de lenguajes de programación cuánticos](/clases/2018/charlas_invitadas/AlejandroDiazCaro-Fundamentos_de_lenguajes_de_programacion_cuanticos.pdf)
+*Charla invitada:* Alejandro Díaz-Caro (UNQ/CONICET) – [Fundamentos de lenguajes de programación cuánticos](/clases/2018/charlas_invitadas/AlejandroDiazCaro-Fundamentos_de_lenguajes_de_programacion_cuanticos.pdf)
 
-**Charla invitada:** Rodrigo Laje (UNQ/CONICET) - Tiempo, control motor, caos y reproducibilidad en el cerebro: hay lugar para todos
+*Charla invitada:* Rodrigo Laje (UNQ/CONICET) - Tiempo, control motor, caos y reproducibilidad en el cerebro: hay lugar para todos
 
 
 
