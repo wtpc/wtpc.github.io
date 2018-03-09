@@ -10,6 +10,7 @@ permalink: /clases/
 
 [Charla abierta](/clases/2018/charla_abierta.pdf)
 
+[zip](/clases/2018/wtpc2018-clases_teoricas.zip) con todas las clases teóricas del WTPC18
 
 **Lunes 26 de Febrero**
 
