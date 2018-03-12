@@ -1,0 +1,321 @@
+section.mainTexto{
+    padding: 20px 0;
+    min-height: 60vh;
+    background-image: url(../img/fondoCodigo.png);
+    background-size: 600px;
+    background-position: bottom right;
+    float: left;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.mainTexto p,
+section.mainInformacion p{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.9;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 0;
+}
+
+section.mainInscripcion{
+    padding: 20px 0;
+    position: relative;
+    min-height: 60vh;
+    background-image: url(../img/fondoCodigo.png);
+    background-size: 600px;
+    background-position: center left;
+    float: left;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.mainInscripcion .overlay{
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(158, 0, 93, 1);
+    z-index: -1;
+}
+section.mainInscripcion h2,
+section.mainInformacion h2,
+section.sponsors h2,
+section.contacto h2{
+    font-size: 28px;
+    color: #FFF;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+section.mainInscripcion span,
+section.sponsors span,
+section.contacto span{
+    width: 500px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    color: #FFF;
+    text-align: center;
+    line-height: 1.4;
+}
+
+section.mainInformacion{
+    padding: 20px 0;
+    min-height: 50vh;
+    float: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.mainInformacion h2,
+section.sponsors h2,
+section.contacto h2{
+    color: #1A1A1A!important;
+    text-align:center;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+section#map{
+    padding: 20px 0;
+    min-height: 500px;
+    float: left;
+    width: 100%;
+}
+
+section.sponsors{
+    padding: 20px 0;
+    position: relative;
+    min-height: 35vh;
+    float: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.sponsors span,
+section.contacto span{
+    color: #1A1A1A;
+    font-size: 21px;
+    text-align: center;
+    float:left;
+    min-width: 70%;
+}
+section.sponsors .imgSponsors{
+    float:left;
+    width: 100%;
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+}
+section.sponsors .imgSponsors > img{
+    height: 70px;
+    margin-right: 20px;
+}
+section.sponsors .imgSponsors > img:last-of-type{
+    margin-right: 0!important;
+}
+
+section.contacto .redes{
+    float:left;
+    width: 100%;
+    margin: 20px 0;
+
+    display:flex;
+    justify-content: center;
+}
+section.contacto .redes > ul{
+    list-style:none;
+}
+section.contacto .redes > ul > li{
+    float: left;
+    padding-right: 15px;
+}
+section.contacto .redes > ul > li:last-of-type{
+    padding-right: 0!important;
+}
+section.contacto .redes > ul > li > a{
+    color: #22B573;
+    font-size: 32px;
+}    
+section.contacto{
+    float:left;
+    width: 100%;
+}
+
+
+
+/** docentes **/
+section.mainDocentes{
+    width: 100%;
+    float: left;
+    min-height: 500px;
+    padding: 40px 0;
+}
+
+
+.menuMobile{
+    display: none;
+    position: absolute;
+    left: 50px;
+}
+.menuMobile a{
+    color: #FFF;
+    font-size: 2rem;
+}
+.menuMobileBox{
+    display: none;
+}
+.menuMobileBox > ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menuMobileBox > ul > li{
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #1A1A1A!important;
+}
+.menuMobileBox > ul > li > a{
+    color: #FFF;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+/** celulares **/
+@media(max-width: 996px){
+    section.mainInscripcion span, section.sponsors span, section.contacto span{
+        width: auto;
+    }
+    .imgSponsors{
+        flex-direction: column;
+        align-items: center;
+    }
+    .imgSponsors > img{
+        width: 200px;
+        height: unset!important;
+        margin-bottom: 20px;
+    }
+    .hideMobile{
+        display: none!important;
+    }
+    .menuMobile{
+        display: block!important;
+    }
+    .menuMobileBox{
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        background-color: #22B573;
+        display: none;
+        justify-content: center;
+        z-index: 9999!important;
+        align-items: center;
+    }
+    .menuMobileBox .closeButton{
+        position: absolute;
+        top: 30px;
+        right: 40px;
+    }
+    .menuMobileBox .closeButton a{
+        color: #FFF;
+        font-size: 3rem;
+    }
+    header{
+        height: 150px!important;
+        justify-content: flex-end!important;
+    }
+    nav.menu{
+        display: none;
+    }
+    header .logo{
+        width: 125px!important;
+        margin-right: 35px;
+    }
+    header .borde{
+        height: 50px!important;
+        margin: 0 30px!important;
+        display: none;
+    }
+    header h2{
+        font-size: 1.5rem!important;
+        display: none;
+    }
+    section{
+        background: none!important;
+    }
+    .boxDocente .foto .bkgFoto {
+        height: 250px!important;
+        background-position: center!important;
+        margin-bottom: 10px;
+    }
+}
+
+
+header{
+    background-color: #1A1A1A;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header .logo{
+    width: 250px;
+}
+header .borde{
+    height: 100px;
+    border: 2px solid #22B573;
+    margin: 0 60px;
+}
+header h2{
+    color: #23b573;
+    font-size: 1.8rem;
+    margin-bottom: 0!important;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+header .logo img{
+    width: 100%;
+}
+
+nav.menu{
+    width: 100%;
+    height: 50px;
+    float: left;
+
+    background-color: #FFF;
+    z-index: 9999;
+}
+nav.menu.fijar{
+    position: fixed;
+    top: 0!important;
+    box-shadow: 1px 1px 1px 1px lightgrey;
+}
+nav.menu > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+nav.menu > ul > li{
+    float: left;
+    padding: 10px 20px;
+}
+nav.menu > ul > li > a{
+    color: #1A1A1A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
